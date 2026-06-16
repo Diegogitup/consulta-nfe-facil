@@ -1,0 +1,30 @@
+.resultCard {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  align-items: center;
+  width: 100%;
+  margin-top: 37px;
+  padding: 16px;
+  border: 1px solid #444;
+  border-radius: 10px;
+}
+
+.statusNfe {
+    display: flex;
+    gap: 1rem;
+    text-transform: uppercase;
+}
+
+.btnDownload {
+  width: auto;
+  padding: 0.75rem 1rem;
+  border: none;
+  border-radius: 1.5rem;
+  margin-top: 20px;
+
+  &:hover {
+    opacity: 0.5;
+    cursor: pointer;
+  }
+}

@@ -96,7 +96,7 @@ O projeto foi criado com foco em:
 </p>
 
 <p align="center">
-  <a href="" target="_blank">  
+  <a href="https://diegogitup.github.io/consulta-nfe-facil/" target="_blank">  
     <img alt="Preview do projeto HBO Max Clone" src="./src/assets/images/nfe-consulta-facil.JPG" width="100%">
     
   </a>
